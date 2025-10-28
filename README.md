@@ -5,7 +5,7 @@ class Leojgv():
         self.name = "Leonardo Gonzalez"
         self.username = "Leojgv"
         self.age = "20"
-        self.location = "Gral.Lopez, Chile"
+        self.location = "Temuco, Chile"
 
     def __str__(self):
         return self.name
